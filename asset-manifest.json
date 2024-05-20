@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3a12b4a1.css",
+    "main.js": "/Portfolio/static/js/main.4b40ab24.js",
+    "static/media/blog.png": "/Portfolio/static/media/blog.f5f2164103adc442583e.png",
+    "static/media/image.png": "/Portfolio/static/media/image.7493400db32d65f1dcec.png",
+    "static/media/HeroImage.jpeg": "/Portfolio/static/media/HeroImage.90bdb46282c74ecacf2a.jpeg",
+    "static/media/BJC.png": "/Portfolio/static/media/BJC.44dbab300a5c6c0a816f.png",
+    "static/media/figma.png": "/Portfolio/static/media/figma.beea96f2f587e17f494f.png",
+    "static/media/git.png": "/Portfolio/static/media/git.8dd3688bb1415872d423.png",
+    "static/media/todoweb.png": "/Portfolio/static/media/todoweb.dbc2660209648c6e758e.png",
+    "static/media/todo.jpg": "/Portfolio/static/media/todo.31a3b5e60c9a131608cc.jpg",
+    "static/media/mathgame.jpg": "/Portfolio/static/media/mathgame.a6aa375f92ec6a5fe89d.jpg",
+    "static/media/auburn.jpg": "/Portfolio/static/media/auburn.d1a3154d1e421649d1f9.jpg",
+    "static/media/bookstore.png": "/Portfolio/static/media/bookstore.65510aabd0641433b3ef.png",
+    "static/media/finance.jpg": "/Portfolio/static/media/finance.c5ab7b9ab021b2ef7fa5.jpg",
+    "static/media/klu.jpg": "/Portfolio/static/media/klu.e07e2dd0ca14a71c3413.jpg",
+    "static/media/flag.jpg": "/Portfolio/static/media/flag.68d9cc15e9b8676dca37.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.3a12b4a1.css.map": "/Portfolio/static/css/main.3a12b4a1.css.map",
+    "main.4b40ab24.js.map": "/Portfolio/static/js/main.4b40ab24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a12b4a1.css",
+    "static/js/main.4b40ab24.js"
+  ]
+}
