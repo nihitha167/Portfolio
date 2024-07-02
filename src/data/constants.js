@@ -26,7 +26,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/nihitha167",
     resume:
-      "https://drive.google.com/file/d/1l5Vzv-AeEhpBcw6jCS2Om2o2jEV44QDH/view?usp=sharing",
+      "https://drive.google.com/file/d/1m-EcHZSHIY_O1EyOnyVBsl-ZLk_HmmNJ/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/nihitha-reddy-seelam/"
   };
   
@@ -311,7 +311,7 @@ export const Bio = {
         title: "To do Android App",
         date: "Feb 2024",
         description:
-            " Personal Finance Tracker is a command-line tool designed to help you manage your income, expenses, and savings goals. It provides a flexible and extensible platform for tracking financial transactions, calculating budgets, and setting savings targets.",
+            "This application allows you to easily add, manage, and remember tasks you want to accomplish.",
         image: todo,
         tags: [
             "Kotlin",

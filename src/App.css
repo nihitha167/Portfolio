@@ -19,24 +19,24 @@ body {
     color: #333;
 }
 
-/* width */
+/* width and height */
 ::-webkit-scrollbar {
     width: 6px;
-    height: 80px;
+    height: 6px;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-    background: #E5E7EB;
+    background: #D1D5DB; /* Light gray */
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: #9CA3AF;
+    background: #6B7280; /* Gray */
     border-radius: 6px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: #6B7280;
+    background: #4B5563; /* Darker gray on hover */
 }
